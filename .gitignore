@@ -1,0 +1,9 @@
+dataset/TACO/TACO/data/batch_*/
+dataset/TACO/__MACOSX/
+dataset/TACO/TACO/.git/
+dataset/TACO/TACO/.ipynb_checkpoints/
+.DS_Store
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
